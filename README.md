@@ -29,7 +29,7 @@ tg-archive uses the [Telethon](https://github.com/LonamiWebs/Telethon) Telegram 
   - If this page produces an alert stating only "ERROR", disconnect from any proxy/vpn and try again in a different browser.
 
 - Install with: `uv pip install tg-archive` (tested with Python 3.13.2).
-- Upgrade with" `pip install --upgrade tg-archive`
+- Upgrade with: `pip install --upgrade tg-archive`
 
 ### Usage
 
