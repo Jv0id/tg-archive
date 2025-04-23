@@ -7,9 +7,7 @@
 **IMPORTANT:** I'm no longer actively maintaining or developing this tool. Can review and merge PRs (as long as they're not massive and are clearly documented).
 
 ## Preview
-The [@fossunited](https://tg.fossunited.org) Telegram group archive.
-
-![image](https://user-images.githubusercontent.com/547147/111869398-44188980-89a5-11eb-936f-01d98276ba6a.png)
+The [生活点滴](https://jplife.fun) Telegram group archive.
 
 
 ## How it works
@@ -31,6 +29,7 @@ tg-archive uses the [Telethon](https://github.com/LonamiWebs/Telethon) Telegram 
   - If this page produces an alert stating only "ERROR", disconnect from any proxy/vpn and try again in a different browser.
 
 - Install with: `uv pip install tg-archive` (tested with Python 3.13.2).
+- Upgrade with" `pip install --upgrade tg-archive`
 
 ### Usage
 
